@@ -1,0 +1,3 @@
+# Dependências do projeto - Pesquisa Operacional (PLI)
+# Versão utilizada no ambiente de desenvolvimento (Python 3.9.2)
+PuLP==1.6.0
